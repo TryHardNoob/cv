@@ -1,0 +1,64 @@
+body{
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.split{
+    height: 100%;
+    position: fixed;
+    top: 0;
+}
+.left{
+    width: 25%;
+    left: 0;
+    background-color: #4CAF50;
+}
+.right{
+    width: 75%;
+    right: 0;
+    background-color: #f2f2f2;
+    padding-left: 5px;
+}
+.centered img {
+    width: 150px;
+    border-radius: 50%;
+}
+.header{
+    border-spacing: 15px;
+}
+.text{
+    border-spacing: 10px;
+    font-size: 13px;
+    text-align: left;
+}
+.vl {
+    border-left: 6px solid #45a049;
+    height: 100%;
+    position: absolute;
+    left: 24.5%;
+    margin-left: -2.5px;
+    top: 0;
+}
+.v2 {
+    border-left: 6px solid #726a95;
+    height: 8%;
+    position: absolute;
+    left: 20%;
+    margin-left: -20.5px;
+    top: 590px;
+}
+.v3 {
+    border-left: 6px solid #726a95;
+    height: 5%;
+    position: absolute;
+    left: 25%;
+    margin-left: 88px;
+    top: 590px;
+}
+.v4 {
+    border-left: 6px solid #726a95;
+    height: 6%;
+    position: absolute;
+    left: 62%;
+    margin-left: 77px;
+    top: 590px;
+}
